@@ -20,6 +20,7 @@
 project = 'eidadoc'
 copyright = '2020, rs'
 author = 'rs'
+master_doc = 'index'
 
 
 # -- General configuration ---------------------------------------------------
