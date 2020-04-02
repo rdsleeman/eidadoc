@@ -14,13 +14,13 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
+master_doc = 'index'
 
 # -- Project information -----------------------------------------------------
 
 project = 'eidadoc'
 copyright = '2020, rs'
 author = 'rs'
-master_doc = 'index'
 
 
 # -- General configuration ---------------------------------------------------
@@ -29,6 +29,7 @@ master_doc = 'index'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+    'readthedocs_ext.readthedocs'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
