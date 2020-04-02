@@ -13,6 +13,20 @@ Welcome to the eidadoc documentation!
    additional
 
 
+PublicAPI main
+===================
+.. automodule:: 
+   :members:
+
+DevelopAPI main
+===================
+.. automodule:: 
+   :members:
+
+InternalAPI main
+===================
+.. automodule:: 
+   :members:
 
 Indices and tables
 ==================

@@ -30,8 +30,8 @@ author = 'rs'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'readthedocs_ext.readthedocs'
 ]
+#'readthedocs_ext.readthedocs'
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
