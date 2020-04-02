@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to eidadoc's documentation!
+Welcome to the eidadoc documentation!
 ===================================
 
 .. toctree::
@@ -21,5 +21,5 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-Some introduction text here.
+Some more introduction text here.
 
