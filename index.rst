@@ -10,16 +10,6 @@ Welcome to eidadoc's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   additional
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
 Some introduction text here.
 
